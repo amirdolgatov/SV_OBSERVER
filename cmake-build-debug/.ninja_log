@@ -1,0 +1,19 @@
+# ninja log v5
+1	297	1726426247880443876	src/CMakeFiles/SV_OBSERVER.dir/Summ.cpp.o	87ba9382d7f1b4b
+1	767	1726426356905866390	Test/CMakeFiles/effective_val_test.dir/effective_val_test.cpp.o	f38e664d31787b1f
+2	99	1726349373367626409	lib/libgtest.a	bc932a009ee60a56
+297	341	1726426247923444034	src/libSV_OBSERVER.so	fcd11717ba7c8350
+0	24	1726401885291289341	build.ninja	476c37e20608588c
+317	381	1725873140289105778	IEC61850_Observer	3094aa0b02cc7d8e
+1	317	1725873140226100293	CMakeFiles/IEC61850_Observer.dir/main.cpp.o	4b4dda1c73c9e1fc
+767	885	1726426357022866864	Test/effective_val_test	fafb46a7bd1802cc
+0	3300	1726349053195217045	libs/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6219d5e25d99ab2
+0	205	1726349050104278361	src/libSV_OBSERVER.a	197156a09740cff
+2	784	1726349374058631233	Test/CMakeFiles/multiply_test.dir/main.cpp.o	10a33b7cf242480e
+1	122	1726349414743964612	Test/multiply_test	d4e5231c6c276c64
+1	766	1726426373649934771	Test/CMakeFiles/effective_val_test.dir/effective_val_test.cpp.o	f38e664d31787b1f
+766	880	1726426373762935235	Test/effective_val_test	fafb46a7bd1802cc
+0	279	1726426417142116295	src/CMakeFiles/SV_OBSERVER.dir/Summ.cpp.o	87ba9382d7f1b4b
+279	325	1726426417187116485	src/libSV_OBSERVER.so	fcd11717ba7c8350
+1	786	1726426417648118438	Test/CMakeFiles/effective_val_test.dir/effective_val_test.cpp.o	f38e664d31787b1f
+786	899	1726426417760118913	Test/effective_val_test	fafb46a7bd1802cc
